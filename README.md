@@ -23,9 +23,7 @@ A clean, scalable **MERN stack E-commerce application** that allows users to bro
 
 ## 📸 Screenshots
 
-| Home | Product Details | Cart |
-|------|-----------------|------|
-| ![Home](screenshots/home.png) | ![Product](screenshots/product.png) | ![Cart](screenshots/cart.png) |
+
 
 <img width="2879" height="1692" alt="Screenshot 2025-06-26 095925" src="https://github.com/user-attachments/assets/4bffba30-d68a-4945-9f82-992b1ddefbeb" />
 
