@@ -1,33 +1,40 @@
-# Shop-Website (MERN E-commerce Project)
+# 🛍️ MERN E-commerce Shop Website
 
-A full-stack **MERN E-commerce application** providing seamless online shopping functionality for customers and management features for admins.
+A clean, scalable **MERN stack E-commerce application** that allows users to browse products, manage a cart, checkout, and for admins to manage products and orders seamlessly.
 
-## Features
+## 🚀 Features
 
-- User registration and login with JWT authentication
-- Product listing and product detail pages
-- Add to cart, update, and remove items
-- Checkout and order placement
-- Admin dashboard for product and order management
-- RESTful APIs with secure backend and clean frontend integration
-- Responsive React UI for all devices
+- 🛒 Product Listing, Search, and Filtering
+- 📄 Product Detail Pages
+- 🛍️ Add to Cart, Update, and Remove Items
+- 🔐 User Registration & Login with JWT Authentication
+- 💳 Checkout and Order Placement
+- 🛠️ Admin Dashboard for Product & Order Management
+- 📈 Order History Tracking for Users
+- 🖥️ Responsive UI (Mobile + Web Friendly)
 
----
+## 🛠️ Tech Stack
 
-## Tech Stack
+- **Frontend**: React.js, Axios, React Router, Ant Design
+- **Backend**: Node.js, Express.js
+- **Database**: MongoDB with Mongoose
+- **Authentication**: JWT
+- **Deployment**: Render / Vercel / Netlify
 
-- **Frontend:** React.js, Axios, React Router, Ant Design (or your chosen UI library)
-- **Backend:** Node.js, Express.js
-- **Database:** MongoDB with Mongoose
-- **Authentication:** JWT
-- **Version Control:** Git, GitHub
+## 📸 Screenshots
 
----
+| Home | Product Details | Cart |
+|------|-----------------|------|
+| ![Home](screenshots/home.png) | ![Product](screenshots/product.png) | ![Cart](screenshots/cart.png) |
 
-## Setup and Installation
+<img width="2879" height="1692" alt="Screenshot 2025-06-26 095925" src="https://github.com/user-attachments/assets/4bffba30-d68a-4945-9f82-992b1ddefbeb" />
 
-### 1️⃣ Clone the Repository
+
+## ⚙️ Installation & Setup
+
+1️⃣ **Clone the repository:**
 
 ```bash
 git clone https://github.com/VelchuriMahesh/Shop-website.git
 cd Shop-website
+🔗 Drive :https://drive.google.com/file/d/1WZDpZaeSQPZ9sXUgBukyt3D6I3pwf7kI/view?usp=sharing
